@@ -1,0 +1,14 @@
+debug/ltankwidget.o
+debug/main.o
+debug/MainWindow.o
+debug/qcgaugewidget.o
+debug/rtankwidget.o
+debug/tcpsoketconnect.o
+debug/DarkStyle.o
+debug/qrc_darkstyle.o
+debug/moc_MainWindow.o
+debug/moc_ltankwidget.o
+debug/moc_qcgaugewidget.o
+debug/moc_rtankwidget.o
+debug/moc_tcpsoketconnect.o
+debug/moc_DarkStyle.o

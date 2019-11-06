@@ -1,0 +1,14 @@
+release/ltankwidget.o
+release/main.o
+release/MainWindow.o
+release/qcgaugewidget.o
+release/rtankwidget.o
+release/tcpsoketconnect.o
+release/DarkStyle.o
+release/qrc_darkstyle.o
+release/moc_MainWindow.o
+release/moc_ltankwidget.o
+release/moc_qcgaugewidget.o
+release/moc_rtankwidget.o
+release/moc_tcpsoketconnect.o
+release/moc_DarkStyle.o
